@@ -11,18 +11,18 @@ Besides of working with Swift I am also a tech geek, and a big fan of UI/UX desi
 ## 🛠  Technologies:
 
 - 🛠 Main Technologies:
-  ![Swift](https://img.shields.io/badge/-Swift-0A1A2F?style=flat&logo=Swift)   ![UIKit](https://img.shields.io/badge/-UIKit-0A1A2F?style=flat&logo=UIKit) 
+  [![Swift](https://img.shields.io/badge/-Swift-0A1A2F?style=flat&logo=Swift)](https://github.com/CettlerLukasz)  [![UIKit](https://img.shields.io/badge/-UIKit-0A1A2F?style=flat&logo=UIKit)](https://github.com/CettlerLukasz)
 - 🔧 Seconday Technologies:
-  ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0A1A2F?style=flat&logo=SwiftUI) ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=React) ![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=PHP)
+  [![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=React)](https://github.com/CettlerLukasz) [![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=PHP)](https://github.com/CettlerLukasz)
 - 🗂 Database:
- ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd) ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)  ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase) 
+ [![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)](https://github.com/CettlerLukasz) [![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)](https://github.com/CettlerLukasz) [![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase)](https://github.com/CettlerLukasz)
  - ⚙️ VCS:
-  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+ [![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)](https://github.com/CettlerLukasz) [![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)](https://github.com/CettlerLukasz)
  - 💻 IDE's:
-  ![Xcode](https://img.shields.io/badge/-Xcode-0A1A2F?style=flat&logo=Xcode) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
-### 📞  Contact me: ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lukasz.cettler@gmail.com) ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/łukasz-cettler-27b2161a1/)
+  [![Xcode](https://img.shields.io/badge/-Xcode-0A1A2F?style=flat&logo=Xcode)](https://github.com/CettlerLukasz) [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/CettlerLukasz)
+### 📞  Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lukasz.cettler@gmail.com)](mailto:lukasz.cettler@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/łukasz-cettler-27b2161a1/)](https://www.linkedin.com/in/łukasz-cettler-27b2161a1/)
 ### 🔗 Links:
-[Łukasz Cettler_CV - ENG version]()</br>
-[Łukasz Cettler_CV - PL version]()</br>
-[References - PL version]()</br>
+[Łukasz Cettler_CV - ENG version](https://github.com/CettlerLukasz/lukaszcettler/blob/main/Lukasz%20Cettler_CV-ENG.pdf)</br>
+[Łukasz Cettler_CV - PL version](https://github.com/CettlerLukasz/lukaszcettler/blob/main/Lukasz%20Cettler_CV-PL.pdf)</br>
+[References - PL version](https://github.com/CettlerLukasz/lukaszcettler/blob/main/Referencje.pdf)</br>
 
