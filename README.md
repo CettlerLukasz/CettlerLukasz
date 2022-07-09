@@ -15,7 +15,7 @@ Besides of working with Swift I am also a tech geek, and a big fan of UI/UX desi
 - 🔧 Seconday Technologies:
   [![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=React)](https://github.com/CettlerLukasz) [![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=PHP)](https://github.com/CettlerLukasz)
 - 🗂 Database:
- [![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)](https://github.com/CettlerLukasz) [![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)](https://github.com/CettlerLukasz) [![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase)](https://github.com/CettlerLukasz)
+ [![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)](https://github.com/CettlerLukasz) [![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase)](https://github.com/CettlerLukasz)
  - ⚙️ VCS:
  [![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)](https://github.com/CettlerLukasz) [![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)](https://github.com/CettlerLukasz)
  - 💻 IDE's:
