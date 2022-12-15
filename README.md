@@ -13,7 +13,7 @@ Besides of working with Swift I am also a tech geek, and a big fan of UI/UX desi
 - 🛠 Main Technologies:
   [![Swift](https://img.shields.io/badge/-Swift-0A1A2F?style=flat&logo=Swift)](https://github.com/CettlerLukasz)  [![UIKit](https://img.shields.io/badge/-UIKit-0A1A2F?style=flat&logo=UIKit)](https://github.com/CettlerLukasz)
 - 🔧 Seconday Technologies:
-  [![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=React)](https://github.com/CettlerLukasz) [![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=PHP)](https://github.com/CettlerLukasz)
+  [![Python](https://img.shields.io/badge/-Python-0A1A2F?style=flat&logo=Python)](https://github.com/CettlerLukasz) [![PHP](https://img.shields.io/badge/-PHP-0A1A2F?style=flat&logo=PHP)](https://github.com/CettlerLukasz)
 - 🗂 Database:
  [![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)](https://github.com/CettlerLukasz) [![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=Firebase)](https://github.com/CettlerLukasz)
  - ⚙️ VCS:
