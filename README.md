@@ -22,7 +22,5 @@ Besides of working with Swift I am also a tech geek, and a big fan of UI/UX desi
   [![Xcode](https://img.shields.io/badge/-Xcode-0A1A2F?style=flat&logo=Xcode)](https://github.com/CettlerLukasz) [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/CettlerLukasz)
 ### 📞  Contact me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lukasz.cettler@gmail.com)](mailto:lukasz.cettler@gmail.com) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/łukasz-cettler-27b2161a1/)](https://www.linkedin.com/in/łukasz-cettler-27b2161a1/)
 ### 🔗 Links:
-[Łukasz Cettler_CV - ENG version](https://github.com/CettlerLukasz/lukaszcettler/blob/main/Lukasz%20Cettler_CV-ENG.pdf)</br>
-[Łukasz Cettler_CV - PL version](https://github.com/CettlerLukasz/lukaszcettler/blob/main/Lukasz%20Cettler_CV-PL.pdf)</br>
 [References - PL version](https://github.com/CettlerLukasz/lukaszcettler/blob/main/Referencje.pdf)</br>
 
